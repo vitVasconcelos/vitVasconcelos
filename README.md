@@ -28,7 +28,7 @@
 
 ![Vitória GitHub stats](https://github-readme-stats.vercel.app/api?username=vitVasconcelos&hide=prs,issues,contribs&theme=radical&locale=pt-br&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitVasconcelos&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitVasconcelos&layout=compact&theme=radical&locale=pt-br)
 
 ---
 
