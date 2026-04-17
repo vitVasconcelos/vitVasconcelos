@@ -1,24 +1,46 @@
-## Olá, meu nome é Vitória, sou desenvolvedora Frontend Júnior 
+## Olá 👋 Eu sou Vitória Vasconcelos  
+**Desenvolvedora Frontend Júnior | HTML • CSS • JavaScript • React básico | WordPress básico**
 
-💻Fiz o ensino médio técnico em Informática - IFPE
+💻 Técnica em Informática pelo IFPE  
+👩‍🎓 Licenciada em Computação pelo IFPE  
 
-👩‍🎓Sou formada em Licenciatura em computação - IFPE  
+👩‍💻 Atualmente aprimorando minhas habilidades em HTML, CSS, JavaScript e estudando React e WordPress para atuar em diferentes tipos de projetos web.
 
-👩‍💻Atualmente estou me especializando em desenvolvimento Frontend, tenho aprimorado minhas habilidades com HTML, CSS e JavaScript e iniciei meus estudos em React e WordPress, ampliando minha capacidade de atuar em diferentes tipos de projetos web.
-<div style="display: inline_block"><br>
-   <img alingn="center"width="40" height="30" alt="vit-HTML" src="https://github.com/user-attachments/assets/11eee1c1-8566-4c13-b02f-2bed459fe308" />
-  <img alingn="center"width="40" height="30" alt="vit-CSS" src="https://github.com/user-attachments/assets/af715263-f46b-4df3-ad5e-1928c5e60c2d" />
-  <img alingn="center"width="40" height="30" alt="vit-Javascript" src="https://github.com/user-attachments/assets/8aa873e7-b7c9-4edb-8452-0620721003ee" />
-    <img alingn="center"width="40" height="30" alt="vit-Wordpress" src="https://github.com/user-attachments/assets/23bbe227-43f7-45c7-acbd-085677c93994" />
-    <img alingn="center"width="40" height="30" alt="vit-React" src="https://github.com/user-attachments/assets/78577168-de9c-4acb-8603-93ce6cb9c6a7" />
+---
+
+## 🚀 Tecnologias
+
+<p display="left">
+  <img src="https://github.com/user-attachments/assets/11eee1c1-8566-4c13-b02f-2bed459fe308" width="40" height="30" alt="HTML" />
+  <img src="https://github.com/user-attachments/assets/af715263-f46b-4df3-ad5e-1928c5e60c2d" width="40" height="30" alt="CSS" />
+  <img src="https://github.com/user-attachments/assets/8aa873e7-b7c9-4edb-8452-0620721003ee" width="40" height="30" alt="JavaScript" />
+  <img src="https://github.com/user-attachments/assets/23bbe227-43f7-45c7-acbd-085677c93994" width="40" height="30" alt="WordPress" />
+  <img src="https://github.com/user-attachments/assets/78577168-de9c-4acb-8603-93ce6cb9c6a7" width="40" height="30" alt="React" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Vitória GitHub stats](https://github-readme-stats.vercel.app/api?username=vitVasconcelos&hide=prs,issues,contribs&theme=radical&locale=pt-br&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitVasconcelos&layout=compact&theme=radical)
+
+---
+
+## 📌 Projetos em Destaque
+🔹 Loja de sobremesas — [Ver repositório](https://github.com/vitVasconcelos/loja-sobremesas)  
+🔹 Turismo Espacial — [Ver repositório](https://github.com/vitVasconcelos/turismo-espacial)
+🔹 HDC Host — [Ver repositório](https://github.com/vitVasconcelos/HDC-Host)  
+🔹 Lista de Extensões — [Ver repositório](https://github.com/vitVasconcelos/Extensions-List)  
+🔹 Formulário de inscrição — [Ver repositório](https://github.com/vitVasconcelos/FormularioDeInscricao)
+🔹 Ecommerce de Cartas — [Ver repositório](https://github.com/vitVasconcelos/EcommerceCartas)
 
 
-  ##
- 
-<div> 
+---
 
-   [![Vitória GitHub stats](https://github-readme-stats.vercel.app/api?username=vitVasconcelos&hide=prs,issues,contribs&theme=radical&locale=pt-br&show_icons=true)](https://github.com/vitVasconcelos/github-readme-stats)
+## 🌐 Contato
 
-  <a href="https://www.linkedin.com/in/vit-vasconcelos/?skipRedirect=true" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+<a href="https://www.linkedin.com/in/vit-vasconcelos/?skipRedirect=true" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
