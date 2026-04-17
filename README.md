@@ -2,7 +2,7 @@
 
 💻Fiz o ensino médio técnico em Informática - IFPE
 
-👩‍🎓Sou formada em Licenciatura em computação pelo IFPE  
+👩‍🎓Sou formada em Licenciatura em computação - IFPE  
 
 👩‍💻Atualmente estou me especializando em desenvolvimento Frontend, tenho aprimorado minhas habilidades com HTML, CSS e JavaScript e iniciei meus estudos em React e WordPress, ampliando minha capacidade de atuar em diferentes tipos de projetos web.
 <div style="display: inline_block"><br>
@@ -18,7 +18,6 @@
 <div> 
 
    [![Vitória GitHub stats](https://github-readme-stats.vercel.app/api?username=vitVasconcelos&hide=prs,issues,contribs&theme=radical&locale=pt-br&show_icons=true)](https://github.com/vitVasconcelos/github-readme-stats)
-
 
   <a href="https://www.linkedin.com/in/vit-vasconcelos/?skipRedirect=true" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
