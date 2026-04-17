@@ -6,6 +6,10 @@
 
 👩‍💻 Atualmente aprimorando minhas habilidades em HTML, CSS, JavaScript e estudando React e WordPress para atuar em diferentes tipos de projetos web.
 
+<a href="https://www.linkedin.com/in/vit-vasconcelos/?skipRedirect=true" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 ---
 
 ## 🚀 Tecnologias
@@ -37,11 +41,4 @@
 🔹 Ecommerce de Cartas — [Ver repositório](https://github.com/vitVasconcelos/EcommerceCartas)
 
 
----
 
-## 🌐 Contato
-
-<a href="https://www.linkedin.com/in/vit-vasconcelos/?skipRedirect=true" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
- <a href="mailto:vitoria.mvsv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
