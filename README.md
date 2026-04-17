@@ -10,7 +10,7 @@
 
 ## 🚀 Tecnologias
 
-<p display="left">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/11eee1c1-8566-4c13-b02f-2bed459fe308" width="40" height="30" alt="HTML" />
   <img src="https://github.com/user-attachments/assets/af715263-f46b-4df3-ad5e-1928c5e60c2d" width="40" height="30" alt="CSS" />
   <img src="https://github.com/user-attachments/assets/8aa873e7-b7c9-4edb-8452-0620721003ee" width="40" height="30" alt="JavaScript" />
@@ -44,4 +44,4 @@
 <a href="https://www.linkedin.com/in/vit-vasconcelos/?skipRedirect=true" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
- <a href = "mailto:vitoria.mvsv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="mailto:vitoria.mvsv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
