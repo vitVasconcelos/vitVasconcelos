@@ -33,12 +33,22 @@
 ---
 
 ## 📌 Projetos em Destaque
-🔹 Loja de sobremesas — [Ver repositório](https://github.com/vitVasconcelos/loja-sobremesas)  
+<p align="left">
+  🔹 Loja de sobremesas — [Ver repositório](https://github.com/vitVasconcelos/loja-sobremesas)
+
+  <br>
 🔹 Turismo Espacial — [Ver repositório](https://github.com/vitVasconcelos/turismo-espacial)
+    <br>
 🔹 HDC Host — [Ver repositório](https://github.com/vitVasconcelos/HDC-Host)  
+    <br>
 🔹 Lista de Extensões — [Ver repositório](https://github.com/vitVasconcelos/Extensions-List)  
-🔹 Formulário de inscrição — [Ver repositório](https://github.com/vitVasconcelos/FormularioDeInscricao)
-🔹 Ecommerce de Cartas — [Ver repositório](https://github.com/vitVasconcelos/EcommerceCartas)
+    <br>
+🔹 To Do List Avançado — [Ver repositório](https://github.com/vitVasconcelos/to-do-list-avan-ado)  
+    <br>
+🔹 Ecommerce de Cartas — https://github.com/vitVasconcelos/EcommerceCartas)
+    <br>
+</p>
+
 
 
 
