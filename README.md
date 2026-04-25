@@ -15,11 +15,11 @@
 ## 🚀 Tecnologias
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/11eee1c1-8566-4c13-b02f-2bed459fe308" width="40" height="30" alt="HTML" />
-  <img src="https://github.com/user-attachments/assets/af715263-f46b-4df3-ad5e-1928c5e60c2d" width="40" height="30" alt="CSS" />
-  <img src="https://github.com/user-attachments/assets/8aa873e7-b7c9-4edb-8452-0620721003ee" width="40" height="30" alt="JavaScript" />
-  <img src="https://github.com/user-attachments/assets/23bbe227-43f7-45c7-acbd-085677c93994" width="40" height="30" alt="WordPress" />
-  <img src="https://github.com/user-attachments/assets/78577168-de9c-4acb-8603-93ce6cb9c6a7" width="40" height="30" alt="React" />
+  <img src="https://github.com/user-attachments/assets/11eee1c1-8566-4c13-b02f-2bed459fe308" width="40" alt="HTML"/>
+  <img src="https://github.com/user-attachments/assets/af715263-f46b-4df3-ad5e-1928c5e60c2d" width="40" alt="CSS"/>
+  <img src="https://github.com/user-attachments/assets/8aa873e7-b7c9-4edb-8452-0620721003ee" width="40" alt="JavaScript"/>
+  <img src="https://github.com/user-attachments/assets/23bbe227-43f7-45c7-acbd-085677c93994" width="40" alt="WordPress"/>
+  <img src="https://github.com/user-attachments/assets/78577168-de9c-4acb-8603-93ce6cb9c6a7" width="40" alt="React"/>
 </p>
 
 ---
@@ -31,22 +31,20 @@
 ---
 
 ## 📌 Projetos em Destaque
-<p align="left">
-  🔹 **Cafeteria** — [Ver repositório](https://github.com/vitVasconcelos/cafeteria)
 
-  <br>
-🔹 **Turismo Espacial** — [Ver repositório](https://github.com/vitVasconcelos/turismo-espacial)
-    <br>
-🔹 ** HDC Host** — [Ver repositório](https://github.com/vitVasconcelos/HDC-Host)  
-    <br>
-🔹 **Lista de Extensões** — [Ver repositório](https://github.com/vitVasconcelos/Extensions-List)  
-    <br>
-🔹 **To Do List Avançado** — [Ver repositório](https://github.com/vitVasconcelos/to-do-list-avan-ado)  
-    <br>
-🔹 **Ecommerce de Cartas** — https://github.com/vitVasconcelos/EcommerceCartas)
-    <br>
-</p>
-
+<ul>
+  <li>☕ <strong>Cafeteria</strong> — <a href="https://github.com/vitVasconcelos/cafeteria">Ver repositório</a></li>
+  
+  <li>🎨 <strong>Gerador de Box Shadow</strong> — <a href="https://github.com/vitVasconcelos/Gerador-de-Box-Shadow">Ver repositório</a></li>
+  
+  <li>📝 <strong>Notes App</strong> — <a href="https://github.com/vitVasconcelos/dev-notes">Ver repositório</a></li>
+  
+  <li>✅ <strong>To Do List Avançado</strong> — <a href="https://github.com/vitVasconcelos/to-do-list-avan-ado">Ver repositório</a></li>
+  
+  <li>🌐 <strong>HDC Host</strong> — <a href="https://github.com/vitVasconcelos/HDC-Host">Ver repositório</a></li>
+  
+  <li>🚀 <strong>Turismo Espacial</strong> — <a href="https://github.com/vitVasconcelos/turismo-espacial">Ver repositório</a></li>
+</ul>
 
 
 
