@@ -25,11 +25,9 @@
 ---
 
 ## 📊 GitHub Stats
+![Vitória GitHub stats](https://github-readme-stats.vercel.app/api?username=vitVasconcelos&show_icons=true&theme=radical&locale=pt-br&hide=prs,issues,contribs&cache_seconds=1800)
 
-![Vitória GitHub stats](https://github-readme-stats.vercel.app/api?username=vitVasconcelos&hide=prs,issues,contribs&theme=radical&locale=pt-br&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitVasconcelos&layout=compact&theme=radical&locale=pt-br)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitVasconcelos&layout=compact&theme=radical&locale=pt-br&cache_seconds=1800)
 ---
 
 ## 📌 Projetos em Destaque
