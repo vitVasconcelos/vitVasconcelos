@@ -2,7 +2,7 @@
 **Desenvolvedora Frontend Júnior | HTML • CSS • JavaScript • React básico | WordPress básico**
 
 💻 Técnica em Informática pelo IFPE  
-👩‍🎓 Licenciada em Computação pelo IFPE  
+👩‍🎓 Licencianda em Computação pelo IFPE  
 
 👩‍💻 Atualmente aprimorando minhas habilidades em HTML, CSS, JavaScript e estudando React e WordPress para atuar em diferentes tipos de projetos web.
 
