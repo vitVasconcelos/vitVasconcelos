@@ -1,8 +1,8 @@
 ## Olá 👋 Eu sou Vitória Vasconcelos  
-**Desenvolvedora Frontend Júnior | HTML • CSS • JavaScript • React básico | WordPress básico**
+**Desenvolvedora Frontend Júnior | HTML • CSS • JavaScript • React básico | WordPress**
 
 💻 Técnica em Informática pelo IFPE  
-👩‍🎓 Licencianda em Computação pelo IFPE  
+👩‍🎓 Licenciada em Computação pelo IFPE  
 
 👩‍💻 Atualmente aprimorando minhas habilidades em HTML, CSS, JavaScript e estudando React e WordPress para atuar em diferentes tipos de projetos web.
 
